@@ -1,1 +1,1 @@
-# face_detection using SVM
+# face_recognition using SVM
